@@ -1,0 +1,16 @@
+.video-title-wrap a {
+	color: black;
+	font-weight: bold;
+}
+.image-container img {
+	width: 100%;
+	/* max-height: 350px; */
+}
+.video-wrap {
+	background-color: #f5f5f7;
+	max-height: 350px;
+	overflow: hidden;
+}
+.titleWrap h2 {
+	font-weight: bold !important;
+}

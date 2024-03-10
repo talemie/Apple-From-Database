@@ -1,0 +1,318 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "WPJLp24FE54nKgY-lDTEQ_x5Puk",
+  "nextPageToken": "CAkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 210,
+    "resultsPerPage": 9
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IWQDj0VJahhymXPk29cx60b77ME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zDVQ3he7lVA"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-21T17:00:09Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Fuzzy Feelings: Behind the Scenes | Apple",
+        "description": "Shrunken snowplow. Minuscule suit buttons. Tiny irons. A whole lot of heart. Here's how iPhone 15 Pro Max captured every ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zDVQ3he7lVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zDVQ3he7lVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zDVQ3he7lVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-21T17:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "epu7VwwMGfd3j75SsstDBYp7kdo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LMH5-IHrras"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-21T17:00:05Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Fuzzy Feelings | Apple Holiday Film",
+        "description": "Creativity has the power to change the way we see each other, and the world. Sometimes, seeing things through a new lens can ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LMH5-IHrras/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LMH5-IHrras/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LMH5-IHrras/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-21T17:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WVIIFyrLddejQH1YeIu0cyPoizM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rN_zkpV52J0"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-10T17:00:46Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iPhone 15 Pro | On with the Show | Apple",
+        "description": "iPhone 15 Pro is built for show business. Whether shooting cinematic stunts in ProRes 4K at 60 fps directly to an external drive, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rN_zkpV52J0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rN_zkpV52J0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rN_zkpV52J0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-10T17:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xvF6Oa2G6bw1_vnBV4aPMnLtmLw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V3dbG9pAi8I"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T16:00:15Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Behind the scenes: An Apple Event shot on iPhone",
+        "description": "Take a look at an Apple Event shot on iPhone 15 Pro. The team behind the curtain talks process. The director shoots in low light ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V3dbG9pAi8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V3dbG9pAi8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V3dbG9pAi8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T16:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6u5SprZMn6LAmCl3DaNJ97aA5Yc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "edpJev-jyx4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T00:43:35Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "You Think That&#39;s Hard Work? | Mac | Apple",
+        "description": "This film celebrates doing hard work on Mac. It shows that how no matter what you do or how you do it – from STEMM to business ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/edpJev-jyx4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/edpJev-jyx4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/edpJev-jyx4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T00:43:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OdeyOiYrdELGE67f-yQvjD3uhbA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0pg_Y41waaE"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T00:38:42Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "The new MacBook Pro | Apple",
+        "description": "The new MacBook Pro blasts forward with M3, M3 Pro, and M3 Max, the most advanced chips ever built for a personal computer.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0pg_Y41waaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0pg_Y41waaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0pg_Y41waaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T00:38:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f5tSssulS5uAmrG4jPQ9bpvuzn8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ctkW3V0Mh-k"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T00:35:10Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Apple Event - October 30",
+        "description": "Watch the special Apple Event to learn about the new MacBook Pro and iMac with the M3 family of chips. To watch the event ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ctkW3V0Mh-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ctkW3V0Mh-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ctkW3V0Mh-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T00:35:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LYrxnGzajBmmR3KwN_ddqyF0nqc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_b2OZY7hIx8"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T16:01:30Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "TRAILER: Study With Me video feat. Storm Reid. Tap the link to watch the full video. #Shorts",
+        "description": "90-minute Study With Me video featuring Storm Reid that's designed to keep you focused on studying and away from distractions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_b2OZY7hIx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_b2OZY7hIx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_b2OZY7hIx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T16:01:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OLmuUqhECK2flmbJrF4plJty4QM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ti6r17_TWf4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T16:01:11Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Study With Me feat. Storm Reid x Apple",
+        "description": "90-minute Study With Me video featuring Storm Reid that's designed to keep you focused on studying and away from distractions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ti6r17_TWf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ti6r17_TWf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ti6r17_TWf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T16:01:11Z"
+      }
+    }
+  ]
+}

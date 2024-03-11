@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import logosm from "../../CommonResources/images/icons/logo-sm.png";
 import search from "../../CommonResources/images/icons/search-icon-sm.png";
 import cart from "../../CommonResources/images/icons/cart-sm.png";
@@ -6,6 +6,10 @@ import NavLinks from "./NavLinks";
 import SearchCart from "./SearchCart";
 import { Link } from "react-router-dom";
 function Header() {
+	const [isMenuOpen, setIsMenuOpen] = useState(false);
+	const toggleMenu = () => {
+		setIsMenuOpen(!isMenuOpen);
+	};
 	const navItems = [
 		{ LinkHref: "/mac/", LinkName: "Mac" },
 		{ LinkHref: "/iphone/", LinkName: "iphone" },
@@ -24,6 +28,7 @@ function Header() {
 						type="button"
 						data-toggle="collapse"
 						data-target=".navbar-collapse"
+						onClick={toggleMenu}
 					>
 						☰
 					</button>
@@ -31,7 +36,7 @@ function Header() {
 						<img src={logosm} />
 					</Link>
 
-					<div className="navbar-collapse collapse">
+					<div className={`navbar-collapse ${isMenuOpen ? "" : "collapse"}`}>
 						<ul className="navbar-nav nav-justified w-100 nav-fill">
 							{navItems.map((item, index) => (
 								<NavLinks

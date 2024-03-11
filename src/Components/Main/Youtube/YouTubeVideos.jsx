@@ -5,7 +5,7 @@ function YouTubeVideos() {
     const [videos, setVideos] = useState([]);
     let localAppleYoutube = "./appleYoutube.json";
 	let youtubeApiUrl =
-		"test";
+		"https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCE_M8A5yxnLfW0KghEeajjw&maxResults=6&order=date&key=AIzaSyCKxF8V5Z15iXZULZr0uu-DEzfGK7I1l20&maxResults=9";
 	useEffect(() => {
 		fetch(localAppleYoutube)
 			.then((res) => res.json())
